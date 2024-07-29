@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-3724071d811e663e8d1a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "HelpDeskTicketingSystem",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "HelpDeskTicketingSystem::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-HelpDeskTicketingSystem-Debug-a3a841e9d942f9cc5108.json",
+					"name" : "HelpDeskTicketingSystem",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "HelpDeskTicketingSystem_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-HelpDeskTicketingSystem_autogen-Debug-1d9f0deacaa64c57f571.json",
+					"name" : "HelpDeskTicketingSystem_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "HelpDeskTicketingSystem_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-HelpDeskTicketingSystem_autogen_timestamp_deps-Debug-6b3d94db33648c49873d.json",
+					"name" : "HelpDeskTicketingSystem_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Player 1/OneDrive/Documents/CS106-A2/HelpDeskSystem/build-HelpDeskTicketingSystem-Desktop_Qt_6_6_2_MinGW_64_bit-Debug",
+		"source" : "C:/Users/Player 1/OneDrive/Documents/CS106-A2/HelpDeskSystem/HelpDeskTicketingSystem"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

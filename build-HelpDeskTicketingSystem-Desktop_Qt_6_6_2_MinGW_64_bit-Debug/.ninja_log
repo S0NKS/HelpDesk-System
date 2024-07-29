@@ -1,0 +1,8 @@
+# ninja log v5
+2	1757	7438640152852574	HelpDeskTicketingSystem_autogen/timestamp	40295314dbe3f29a
+2	1757	7438640152852574	HelpDeskTicketingSystem_autogen/mocs_compilation.cpp	40295314dbe3f29a
+2	1757	7438640152852574	C:/Users/Player 1/OneDrive/Documents/CS106-A2/HelpDeskSystem/build-HelpDeskTicketingSystem-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/HelpDeskTicketingSystem_autogen/timestamp	40295314dbe3f29a
+2	1757	7438640152852574	C:/Users/Player 1/OneDrive/Documents/CS106-A2/HelpDeskSystem/build-HelpDeskTicketingSystem-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/HelpDeskTicketingSystem_autogen/mocs_compilation.cpp	40295314dbe3f29a
+1781	5584	7438640192483189	CMakeFiles/HelpDeskTicketingSystem.dir/user.cpp.obj	4d2b7f3c74d69adc
+1768	6609	7438640203236370	CMakeFiles/HelpDeskTicketingSystem.dir/helpdeskoperator.cpp.obj	468803cacd7e1a0a
+1785	6649	7438640203626149	CMakeFiles/HelpDeskTicketingSystem.dir/ticket.cpp.obj	bfe69205180d8000
